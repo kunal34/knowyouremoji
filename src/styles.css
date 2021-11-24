@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: purple;
+  color: white;
+  height: 500px;
+}
+
+.input_box {
+  width: 150px;
+  height: 30px;
+  border-color: black;
+}
